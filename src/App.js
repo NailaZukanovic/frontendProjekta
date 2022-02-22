@@ -14,7 +14,6 @@ import {
   ThemeProvider} from '@material-ui/core';
 import { purple } from '@mui/material/colors';
 import NewsContainer from './Components/NewsContainer';
-import Auth from './Components/auth/Auth';
 import Calendar from './Components/Calendar';
 import Layout from './Components/Layout';
 import Create from './Components/pages/Create';
